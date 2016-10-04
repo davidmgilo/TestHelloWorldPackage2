@@ -1,0 +1,30 @@
+[
+    {
+        "name": "davidmgilo/hello-world-package",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "dist": {
+            "type": "path",
+            "url": "/home/alumne/Code/HelloWorldPackage",
+            "reference": "18489893bb9d97fe54740c1c46ad5ccc80e352a4",
+            "shasum": null
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Davidmgilo\\": "src/"
+            }
+        },
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "David Martinez",
+                "email": "davidmgilo@gmail.com"
+            }
+        ],
+        "description": "Dummy hello world package"
+    }
+]

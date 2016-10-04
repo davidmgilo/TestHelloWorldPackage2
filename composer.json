@@ -1,0 +1,12 @@
+{
+    "name": "davidmgilo/test-hello-world-package2",
+    "authors": [
+        {
+            "name": "David Martinez",
+            "email": "davidmgilo@gmail.com"
+        }
+    ],
+    "require": {
+        "davidmgilo/hello-world-package": "dev-master"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "82b3e1aba9dd1d30737a20a78fcd3be2",
+    "content-hash": "e4f7d6959f5468b405122d2c7b1d2a38",
+    "packages": [
+        {
+            "name": "davidmgilo/hello-world-package",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "/home/alumne/Code/HelloWorldPackage",
+                "reference": "18489893bb9d97fe54740c1c46ad5ccc80e352a4",
+                "shasum": null
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Davidmgilo\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "David Martinez",
+                    "email": "davidmgilo@gmail.com"
+                }
+            ],
+            "description": "Dummy hello world package"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "davidmgilo/hello-world-package": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
